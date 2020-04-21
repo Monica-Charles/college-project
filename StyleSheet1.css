@@ -1,0 +1,11 @@
+﻿body {
+}
+
+#right {
+    width: 700px;
+    height: 555px;
+    border: solid 0px #009999;
+    padding-top: 0px;
+    padding-right: 5px;
+    float: right;
+}
